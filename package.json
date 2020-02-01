@@ -4,7 +4,7 @@
   "description": "## Exemplos baseados no livro \"O melhor do javascript\" de Douglas Crockford.",
   "main": "package.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon ./objeto/objeto1"
   },
   "repository": {
     "type": "git",
