@@ -1,4 +1,5 @@
 var empty_object = {};
 var stooge = {
-    "first-name": "silvioclipper"
+    "first-name": "silvio",
+    "last-name": "Clipper"
 }
