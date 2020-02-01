@@ -10,7 +10,9 @@ Configuração do projeto
 
 
 
- #Sobre o Objetos
+ ## Sobre o Objetos
 
- ### Objetos podem ser internos(string, date...), Windows e document e personalizados.
- #### Tipos primitivos não são objetos por não terem propriedades e métodos. 
+ ### Objetos podem ser internos(números, sequencias de caracteres, expressões regulares, ), Windows e document e personalizados.
+ ### Tipos primitivos não são objetos por não terem propriedades e métodos. 
+ ### objeto é um container de propriedades e métodos, possuem nome e valor.
+ ### objetos em javascript são baseados em protótipos e não em classes.
